@@ -153,7 +153,7 @@ These results are a **reproducible, honest comparison under free-tier constraint
 ```text
 cognodb-benchmark/
 ├── datasets/
-│   ├── raw/
+│   ├── raw/ soc-pokec-relationships.txt
 │   ├── nodes.csv
 │   ├── relationships.csv
 │   └── prepare_pokec.py
